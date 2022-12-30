@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="username">Username</string>
-    <string name="password">Password</string>
+    <string name="username">Username : user</string>
+    <string name="password">Password : 12345</string>
     <string name="forgot_password">Forgot your password?</string>
     <string name="login">LOGIN ME</string>
 

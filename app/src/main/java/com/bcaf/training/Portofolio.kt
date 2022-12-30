@@ -77,7 +77,7 @@ class Portofolio : AppCompatActivity() {
     }
 
     fun toCalculator(view: View){
-        val intent = Intent(this,Portofolio::class.java)
+        val intent = Intent(this,calculator::class.java)
         startActivity(intent)
     }
     fun toMenuActivity(view: View){
